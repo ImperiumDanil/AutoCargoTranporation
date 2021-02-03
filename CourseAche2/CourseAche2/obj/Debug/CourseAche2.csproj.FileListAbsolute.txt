@@ -1,0 +1,12 @@
+D:\Visual Studio\2Course\CourseAche2\CourseAche2\bin\Debug\CourseAche2.exe.config
+D:\Visual Studio\2Course\CourseAche2\CourseAche2\bin\Debug\CourseAche2.exe
+D:\Visual Studio\2Course\CourseAche2\CourseAche2\bin\Debug\CourseAche2.pdb
+D:\Visual Studio\2Course\CourseAche2\CourseAche2\obj\Debug\CourseAche2.csprojAssemblyReference.cache
+D:\Visual Studio\2Course\CourseAche2\CourseAche2\obj\Debug\CourseAche2.Properties.Resources.resources
+D:\Visual Studio\2Course\CourseAche2\CourseAche2\obj\Debug\CourseAche2.csproj.GenerateResource.cache
+D:\Visual Studio\2Course\CourseAche2\CourseAche2\obj\Debug\CourseAche2.exe
+D:\Visual Studio\2Course\CourseAche2\CourseAche2\obj\Debug\CourseAche2.pdb
+D:\Visual Studio\2Course\CourseAche2\CourseAche2\obj\Debug\CourseAche2.FormATC.resources
+D:\Visual Studio\2Course\CourseAche2\CourseAche2\obj\Debug\CourseAche2.StartForm.resources
+D:\Visual Studio\2Course\CourseAche2\CourseAche2\obj\Debug\CourseAche2.FormAdd.resources
+D:\Visual Studio\2Course\CourseAche2\CourseAche2\obj\Debug\CourseAche2.FormShowInfo.resources
